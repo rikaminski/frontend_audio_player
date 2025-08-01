@@ -1,0 +1,61 @@
+{
+  "title": "Audio Sample 1",
+  "duration": 120.5,
+  "transcription": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.2,
+      "text": "Bem-vindos ao nosso sistema de áudio com transcrição.",
+      "words": [
+        { "word": "Bem-vindos", "start": 0.0, "end": 0.8 },
+        { "word": "ao", "start": 0.9, "end": 1.1 },
+        { "word": "nosso", "start": 1.2, "end": 1.6 },
+        { "word": "sistema", "start": 1.7, "end": 2.3 },
+        { "word": "de", "start": 2.4, "end": 2.6 },
+        { "word": "áudio", "start": 2.7, "end": 3.0 },
+        { "word": "com", "start": 3.0, "end": 3.1 },
+        { "word": "transcrição.", "start": 3.1, "end": 3.2 }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.5,
+      "end": 8.1,
+      "text": "Este sistema permite que você navegue através do áudio usando a transcrição.",
+      "words": [
+        { "word": "Este", "start": 3.5, "end": 3.8 },
+        { "word": "sistema", "start": 3.9, "end": 4.5 },
+        { "word": "permite", "start": 4.6, "end": 5.1 },
+        { "word": "que", "start": 5.2, "end": 5.4 },
+        { "word": "você", "start": 5.5, "end": 5.8 },
+        { "word": "navegue", "start": 5.9, "end": 6.4 },
+        { "word": "através", "start": 6.5, "end": 7.0 },
+        { "word": "do", "start": 7.1, "end": 7.2 },
+        { "word": "áudio", "start": 7.3, "end": 7.6 },
+        { "word": "usando", "start": 7.7, "end": 8.0 },
+        { "word": "a", "start": 8.0, "end": 8.05 },
+        { "word": "transcrição.", "start": 8.05, "end": 8.1 }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.5,
+      "end": 12.8,
+      "text": "Você pode buscar por palavras específicas e navegar diretamente para elas.",
+      "words": [
+        { "word": "Você", "start": 8.5, "end": 8.8 },
+        { "word": "pode", "start": 8.9, "end": 9.2 },
+        { "word": "buscar", "start": 9.3, "end": 9.8 },
+        { "word": "por", "start": 9.9, "end": 10.1 },
+        { "word": "palavras", "start": 10.2, "end": 10.8 },
+        { "word": "específicas", "start": 10.9, "end": 11.6 },
+        { "word": "e", "start": 11.7, "end": 11.8 },
+        { "word": "navegar", "start": 11.9, "end": 12.3 },
+        { "word": "diretamente", "start": 12.4, "end": 12.7 },
+        { "word": "para", "start": 12.7, "end": 12.75 },
+        { "word": "elas.", "start": 12.75, "end": 12.8 }
+      ]
+    }
+  ]
+}
